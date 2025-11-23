@@ -2,14 +2,5 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run dev",
     "installCommand": "npm install --legacy-peer-deps",
-    "framework": "nextjs",
-    "regions": [
-        "iad1"
-    ],
-    "env": {
-        "GEMINI_API_KEY": "@gemini_api_key",
-        "DATABASE_URL": "@database_url",
-        "EMAIL_USER": "@email_user",
-        "EMAIL_PASS": "@email_pass"
-    }
+    "framework": "nextjs"
 }
